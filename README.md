@@ -13,4 +13,4 @@ HTML · CSS · JavaScript · Git · React · Nodejs · SQL
 Learning: React / Node.js
 Looking for: junior roles / internships / collaborators
 
-📫 Reach me: your-email or LinkedIn
+📫 Reach me: anthonyymartins@gmail.com
