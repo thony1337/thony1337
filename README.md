@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anthony 👋
 
-<!--
-**thony1337/thony1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring front-end developer learning HTML, CSS, and JavaScript.
+Currently working through The Odin Project and building small projects.
 
-Here are some ideas to get you started:
+## Skills
+HTML · CSS · JavaScript · Git · (add what you're learning next)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [Calculator](https://thony1337.github.io/Project-Calculator/): live demo
+- [Tic-tac-toe](https://thony1337.github.io/Project-tic-tac-toe/): live demo
+
+## Currently
+Learning: React / Node.js
+Looking for: junior roles / internships / collaborators
+
+📫 Reach me: your-email or LinkedIn
