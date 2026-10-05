@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 👋
 
-Aspiring front-end developer learning HTML, CSS, and JavaScript.
+Aspiring full-stack developer learning HTML, CSS, and JavaScript.
 Currently working through The Odin Project and building small projects.
 
 ## Skills
