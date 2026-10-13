@@ -10,7 +10,6 @@ I enjoy building projects from scratch, solving problems, and understanding how 
 - JavaScript
 - HTML5
 - CSS3
-- Python
 - SQL
 - JSON
 
