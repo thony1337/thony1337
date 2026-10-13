@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 
 
-I'm a **Full-Stack Developer in training** based in Brazil, currently building my web development skills through **The Odin Project** and a degree in **Systems Analysis and Development**.
+I'm a **Full-Stack Developer in training** based in Brazil, currently building my web development skills through **The Odin Project** and a degree in **ADS**.
 
 I enjoy building projects from scratch, solving problems, and understanding how things work under the hood.
 
