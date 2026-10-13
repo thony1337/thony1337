@@ -4,24 +4,38 @@ I'm a **Full-Stack Developer in training**, currently focused on building a stro
 
 I enjoy building things from scratch, understanding how they work, and continuously improving my code.
 
-##  Tech Stack
+##  Tech Stack & Concepts
 
-**Frontend**
+**Languages**
+- JavaScript
+- Python
+- SQL
 - HTML
 - CSS
-- JavaScript
-- Responsive Design
-- DOM Manipulation
 
-**Backend & Data**
-- Node.js
-- SQL
-- Python
+**Web Development**
+- DOM Manipulation
+- Responsive Design
+- JSON
+- REST APIs
+- Webpack
+
+**Programming & Software Design**
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Modular JavaScript
+- Clean Code
 
 **Tools**
 - Git & GitHub
 - Linux
 - VS Code
+
+**Currently Learning**
+- React
+- Node.js
+- Data Structures & Algorithms
+- Computer Science Fundamentals
 
 ##  Featured Projects
 
@@ -37,15 +51,7 @@ A small library management application built with JavaScript, practicing objects
 ###  [Restaurant Page](https://github.com/thony1337/Project-Restaurant-Page)
 A dynamic restaurant website built with JavaScript and webpack, practicing modular JavaScript and project structure.
 
-##  Currently Learning
 
-- React
-- Node.js
-- Full-stack web development
-- Data structures & algorithms
-- Computer science fundamentals
-
-Currently progressing through **The Odin Project** and studying **Systems Analysis and Development (ADS)**.
 
 ##  What I'm Looking For
 
