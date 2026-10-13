@@ -8,7 +8,6 @@ I enjoy building things from scratch, understanding how they work, and continuou
 
 **Languages**
 - JavaScript
-- Python
 - SQL
 - HTML
 - CSS
